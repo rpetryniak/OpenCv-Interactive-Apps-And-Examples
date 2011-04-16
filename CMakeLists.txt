@@ -1,0 +1,12 @@
+PROJECT(OpenCvInteractiveAppsAndExamples)
+
+cmake_minimum_required(VERSION 2.8)
+
+FIND_PACKAGE( OpenCV REQUIRED )
+
+add_subdirectory (StartFromThis)
+add_subdirectory (MotionDetection)
+add_subdirectory (AssignPixel)
+add_subdirectory (InteractiveAppTutorial/InteractiveAppTutorial_1)
+add_subdirectory (InteractiveAppTutorial/InteractiveAppTutorial_2)
+add_subdirectory (InteractiveAppTutorial/InteractiveAppTutorial_3)
