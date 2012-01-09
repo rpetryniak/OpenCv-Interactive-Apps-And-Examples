@@ -1,4 +1,4 @@
-PROJECT(OpenCvInteractiveAppsAndExamples-InteractiveAppTutorial3)
+PROJECT(OpenCvInteractiveAppsAndExamples-InteractiveAppTutorial4)
 
 cmake_minimum_required(VERSION 2.8)
 
